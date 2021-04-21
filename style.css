@@ -89,7 +89,7 @@ p {
     max-height: 200px;
 }
 
-.BOBh2 {
+.BOB h3 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -110,7 +110,7 @@ p {
     color: #ffffff;
 }
 
-.benefit h3 {
+.benefit h4 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -128,6 +128,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h5 {
     font-size: 20px;
 }
