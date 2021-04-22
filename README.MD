@@ -1,8 +1,8 @@
 # Refactor
-Refactoer is the ajusted code for a our 1st assignment. I was given the HTML CSS and images for a site.  
+Refactor is the ajusted code for a our 1st assignment. I was given the HTML CSS and images for a site.  
 
 # My Adjustments
-* Added an ID, id="search-engine-optimization", so that the navigtion button would work properly.
+* I Added an ID, id="search-engine-optimization", so that the navigtion button would work properly.
 * I introduced Semantic HTML and replaced div where possible:
     * Changed the div on line 12 and 28 to header.
     * Changed the div on line 31 and 40 to article.
@@ -24,7 +24,7 @@ Refactoer is the ajusted code for a our 1st assignment. I was given the HTML CSS
     * added alt attribute to image on line 54.
     * added title attribute to image in "hero" class on line 30.
 
-* I changed the title element to "Horiseon Social SOlutions landing page."
+* I changed the title element to "Horiseon Social Solutions landing page."
 
 * I changed the h tags in the HTML to so that they were more indicitive of importance on the page.
     * Changed the h4 to an h3 on line 45.
